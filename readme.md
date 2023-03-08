@@ -159,3 +159,4 @@ A line in the end of readme
 This is a fork for git learning purposes.
 University: MIREA
 Group: IKBO-05-21
+Student: Arseniy Antipov
